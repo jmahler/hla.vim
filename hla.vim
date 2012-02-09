@@ -80,7 +80,7 @@ syn keyword hlaDirective  seta setae setb setbe setc sete setg setge setl setle
 syn keyword hlaDirective  setna setnae setnb setnbe setnc setne setng setnge
 syn keyword hlaDirective  setnl setnle setno setnp setns setnz seto setp setpo
 syn keyword hlaDirective  sets setz sgdt shl shld shr shrd sidt sldt smsw stc
-syn keyword hlaDirective  std sti stos stosb stosd stosw str sub test verr verw
+syn keyword hlaDirective  std sti stos stosb stosd stosw str sub test verr verw xor
 " }}}
 
 " {{{ hlaConditional
